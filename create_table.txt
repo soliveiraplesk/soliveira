@@ -3,8 +3,8 @@ CREATE TABLE stores (
     name varchar(255),
     tags varchar(255),
     brand varchar(255),
-	discount int,
-	maxAmount int,
-	minAMount int,
-	credentials varchar(255)
+    discount int,
+    maxAmount int,
+    minAMount int,
+    credentials varchar(255)
 );
