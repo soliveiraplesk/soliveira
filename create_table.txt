@@ -8,3 +8,8 @@ CREATE TABLE stores (
     minAMount int,
     credentials varchar(255)
 );
+
+
+-------- OUTPUT---------
+
+14:50:39	CREATE TABLE stores (     id int,     name varchar(255),     tags varchar(255),     brand varchar(255),  discount int,  maxAmount int,  minAMount int,  credentials varchar(255) )	0 row(s) affected	0.156 sec
