@@ -1,0 +1,7 @@
+INSERT INTO stores (id) VALUES ('1234567890');
+INSERT INTO stores (name) VALUES ('Aliado ADDI');
+INSERT INTO stores (tags) VALUES ('tecnologia'), ('informacion'), ('finanzas');
+INSERT INTO stores (brand) VALUES ('Merchant');
+INSERT INTO stores (discount) VALUES ('5');
+INSERT INTO stores (maxAmount) VALUES ('150');
+INSERT INTO stores (credentials) VALUES ('null');
