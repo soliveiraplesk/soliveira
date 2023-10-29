@@ -1,1 +1,7 @@
 select tags from stores where tags = "finanzas";
+
+ _ _ _ _ _
+| tags     |
+ _ _ _ _ _
+| finanzas |
+ _ _ _ _ _
