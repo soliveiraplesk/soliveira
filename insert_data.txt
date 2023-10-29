@@ -5,3 +5,19 @@ INSERT INTO stores (brand) VALUES ('Merchant');
 INSERT INTO stores (discount) VALUES ('5');
 INSERT INTO stores (maxAmount) VALUES ('150');
 INSERT INTO stores (credentials) VALUES ('null');
+
+-------OUTPUT-----
+
+14:52:58	INSERT INTO stores (id) VALUES ('1234567890')	1 row(s) affected	0.093 sec
+
+14:52:58	INSERT INTO stores (name) VALUES ('Aliado ADDI')	1 row(s) affected	0.125 sec
+
+14:52:58	INSERT INTO stores (tags) VALUES ('tecnologia'), ('informacion'), ('finanzas')	3 row(s) affected Records: 3  Duplicates: 0  Warnings: 0	0.078 sec
+
+14:52:59	INSERT INTO stores (brand) VALUES ('Merchant')	1 row(s) affected	0.141 sec
+
+14:52:59	INSERT INTO stores (discount) VALUES ('5')	1 row(s) affected	0.203 sec
+
+14:52:59	INSERT INTO stores (maxAmount) VALUES ('150')	1 row(s) affected	0.094 sec
+
+14:52:59	INSERT INTO stores (credentials) VALUES ('null')	1 row(s) affected	0.203 sec
